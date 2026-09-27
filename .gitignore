@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+.baileys-auth/
+node_modules/
+frontend/dist/
